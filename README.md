@@ -1,5 +1,5 @@
 # digital-clock
 
-Reloj digital.
+Reloj digital responsive.
 
 Creado por Alan Heizenreder.
