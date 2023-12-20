@@ -1,3 +1,3 @@
 # digital-clock
 
-Reloj digital responsive.
+Reloj digital.
